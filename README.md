@@ -36,5 +36,4 @@ I've started this journey with automation by using python and python libraries. 
 </div>
 
 <h2>Stats</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaafarAlMuallim&theme=radical)
 

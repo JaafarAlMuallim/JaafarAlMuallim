@@ -37,3 +37,7 @@ I've started this journey with automation by using python and python libraries. 
 
 <h2>Stats</h2>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JaafarAlMuallim&count_private=true&show_icons=true&theme=radical)
+      <hr>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaafarAlMuallim&show_icons=true&theme=radical)
+   <hr>

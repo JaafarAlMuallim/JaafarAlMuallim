@@ -36,5 +36,5 @@ I've started this journey with automation by using python and python libraries. 
 </div>
 
 <h2>Stats</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-JaafarAlMuallim&layout=compact&theme=vision-friendly-dark)]
+
 

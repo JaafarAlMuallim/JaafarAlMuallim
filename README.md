@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Jaafar Al Muallim</h1>
 
-<h3> Software Enginering Student </h3>
+<h3> Software Enginering Student @ KFUPM </h3>
 I've started this journey with automation by using python and python libraries. Now I'm focusing more on web development using js. Next is app development using Flutter & dart
 
 - 🌱 I’m currently learning more about web development (Backend)

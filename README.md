@@ -17,6 +17,8 @@ I've started this journey with automation by using python and python libraries. 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src= "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" title= "Bootstrap" alt ="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src= "https://www.iamag.co/wp-content/uploads/2016/10/Procreate-Icon-750x400.png" title= "Procreate" alt ="Procreate" width="40" height="40"/>&nbsp;
   <img src= "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" title= "Photoshop" alt ="Photoshop" width="40" height="40"/>&nbsp;
 </div>

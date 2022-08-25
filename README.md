@@ -38,8 +38,3 @@ I've started this journey with automation by using python and python libraries. 
   <a href="https://www.linkedin.com/in/jaafer-al-muallim-87556a198/">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn Badge" width="40" height="40"/>&nbsp;
 </div>
-
-<h2>Stats</h2>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JaafarAlMuallim&count_private=true&show_icons=true&theme=radical)
-      <hr>

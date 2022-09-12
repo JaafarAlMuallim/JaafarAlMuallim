@@ -3,7 +3,7 @@
 <h3> Software Enginering Student @ KFUPM </h3>
 I've started this journey with automation using python and python libraries. I took my time learning web development using nodeJs. Now is app development using Flutter & dart.
 
-- 🌱 I’m currently learning about app development (flutter & react native)
+- 🌱 I’m currently learning about app development (flutter)
 - 👯 I’m looking to collaborate on any project with creative ideas
 - 📫 You Can contact me on: ja3far03@gmail.com
 

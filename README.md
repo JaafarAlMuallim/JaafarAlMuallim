@@ -1,14 +1,13 @@
 <h1>Hi there 👋 I'm Jaafar Al Muallim</h1>
-
 <h3> Software Enginering Student @ KFUPM </h3>
-I've started this journey with automation using python and python libraries. I took my time learning web development using nodeJs. Now is app development using Flutter & dart.
-
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on any project with creative ideas
-- 📫 You Can contact me on: ja3far03@gmail.com
-
+<ul>
+<li>🌱  I'm on track for learning more about Web & App Development</li>
+<li>👯 I’m looking to collaborate on any project with creative ideas</li>
+<li>📫 You Can contact me on: ja3far03@gmail.com</li>
+</ul>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
+<div>
 <div>
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
      <img src= "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" title= "C" alt ="C" width="40" height="40"/>&nbsp;
@@ -18,11 +17,19 @@ I've started this journey with automation using python and python libraries. I t
         <img src= "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" title= "Bootstrap" alt ="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" title="Express" alt="Express" width="40" height="40"/>
+</div>
+ <div>
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-      
-  <img src= "https://www.iamag.co/wp-content/uploads/2016/10/Procreate-Icon-750x400.png" title= "Procreate" alt ="Procreate" width="40" height="40"/>&nbsp;
-  <img src= "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" title= "Photoshop" alt ="Photoshop" width="40" height="40"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp; 
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp; 
+ <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp; 
+ <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>&nbsp; 
+ <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+</div>
 </div>
 
 <h2>Social</h2>
@@ -35,6 +42,6 @@ I've started this journey with automation using python and python libraries. I t
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram Badge" width="40" height="40"/>&nbsp;
   <a href="https://github.com/JaafarAlMuallim">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Github Badge" width="40" height="40"/>&nbsp;
-  <a href="https://www.linkedin.com/in/jaafer-al-muallim-87556a198/">
+  <a href="www.linkedin.com/in/jaafar-al-muallim">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn Badge" width="40" height="40"/>&nbsp;
 </div>

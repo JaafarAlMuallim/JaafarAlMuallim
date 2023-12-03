@@ -6,7 +6,7 @@
 <li>📫 You Can contact me on: ja3far03@gmail.com</li>
 </ul>
 
-<h2>Languages and Tools :</h2>
+<h2>Languages and Tools</h2>
 <div>
 <div>
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;

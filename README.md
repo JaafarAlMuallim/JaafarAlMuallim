@@ -31,17 +31,3 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
 </div>
 </div>
-
-<h2>Social</h2>
-<div id="badges">
-  <a href="https://discord.com/users/Ja3far03#2727">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord Badge" width="40" height="40"/>&nbsp;
-  <a href="https://twitter.com/Ja3far032?t=-98p2rYmUwNx5YPeMHAihQ&s=09">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter Badge" width="40" height="40"/>&nbsp;
-  <a href="https://www.instagram.com/wrath_12/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram Badge" width="40" height="40"/>&nbsp;
-  <a href="https://github.com/JaafarAlMuallim">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Github Badge" width="40" height="40"/>&nbsp;
-  <a href="www.linkedin.com/in/jaafar-al-muallim">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn Badge" width="40" height="40"/>&nbsp;
-</div>
